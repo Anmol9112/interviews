@@ -1,4 +1,3 @@
-package arrays;
 char firstNotRepeatingCharacter(String s) {
 int i=0;
 int repeated=0;

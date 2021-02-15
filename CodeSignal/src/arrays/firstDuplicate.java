@@ -1,5 +1,3 @@
-package arrays;
-
 int firstDuplicate(int[] a) {
 int min=-1;
 Set<Integer> set=new HashSet<Integer>();
